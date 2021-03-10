@@ -9,3 +9,29 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+table {
+	border:#800080;
+	border-collapse: collapse;
+	text-align:center;
+}
+#Thead, Tfoot{
+	background-image:url('leopardskin.jpg');
+	color:white;
+}
+.rowOne {
+	background-color:#ff33cc;
+	font-family:Rock Salt;
+}
+.rowTwo {
+	background-color:#e495e4;
+	font-family:Helvetica Neu;
+}
+.tbody {
+	background-image:url('noise.png');
+}
+#FOOTERPARA{
+	text-align:right;
+}
+.TABLEHEADING {
+	text-align:right;
+}
